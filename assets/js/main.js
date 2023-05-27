@@ -117,7 +117,7 @@ const text = document.querySelector(".sec-text");
                 text.textContent = "Game Developer";
             }, 4000);
             setTimeout(() => {
-                text.textContent = "Mechatronics Engineer";
+                text.textContent = "Engineer";
             }, 8000);
             setTimeout(() => {
                 text.textContent = "Freelancer";
